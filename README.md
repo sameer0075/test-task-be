@@ -1,5 +1,7 @@
 Steps To Run Backend Project.
 
+# 0- Copy .env.example file and create .env file. Copy content from .env.example
+
 # 1- Run command npm install
 
 # 2- Run command npm run start:dev
